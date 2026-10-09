@@ -1,0 +1,7 @@
+httpx
+google-genai>=2.29
+mcp>=1.30
+mcp-atlassian>=0.23
+python-dotenv
+# Opcional: solo si vas a usar Claude (LLM_PROVIDER=claude)
+anthropic[mcp]>=1.12
